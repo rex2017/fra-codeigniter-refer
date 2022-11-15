@@ -1,6 +1,6 @@
 # fra-codeigniter-refer-develop-gerneral-project
 
-CodeIgniter 框架可开发版
+CodeIgniter 框架可开发版，版本：V1.0-3.1
 
 基于CodeIgniter 3.1.11 框架，下载下来可以直接应用于开发使用。
 
