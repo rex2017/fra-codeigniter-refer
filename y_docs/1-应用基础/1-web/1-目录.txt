@@ -1,0 +1,5 @@
+
+app		应用主目录
+public 	访问入口，只开放这个目录给nginx
+logs	日志
+runtime	运行临时存

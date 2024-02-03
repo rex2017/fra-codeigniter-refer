@@ -1,4 +1,4 @@
-# fra-codeigniter-refer-develop-gerneral-project
+# dev-codeigniter-refer-develop-general-project
 
 CodeIgniter 框架可开发版，版本：V1.0-3.1
 
@@ -6,6 +6,7 @@ CodeIgniter 框架可开发版，版本：V1.0-3.1
 
 框架主要内容包含：
 
-1、基于CodeIgniter 3.1 官方框架包；
-2、提供了web、h5多操作端共用一个框架包的后端架构；
-3、封装或改写了一些常用的组件
+1、基于CodeIgniter 3.1 官方框架包；<br/>
+2、提供了web、api、h5多操作端共用一个框架包的后端架构；<br/>
+3、封装或改写了一些常用的组件；
+4、提供了一些实际应用的demo。
